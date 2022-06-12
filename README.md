@@ -1,5 +1,10 @@
 ## Bem-vindo(a) ao perfil do Natanael Nunes 😁
 
+* 🎨 Sou um inicante na área de Desenvolvimento Web
+* ⚡ Um amante da tecnologia e de enfrentar desafios
+* 🌱 Estudando HTML e CSS, em breve aprofundando no JavaScript e React
+* 😄 Gosto de games, filmes/séries e futebol
+
  <div>
    <a href="https://github.com/Natanael-Nunes">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Natanael-Nunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
