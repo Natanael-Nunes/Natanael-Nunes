@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Natanael Nunes 😁
 
 * 🎨 Sou um inicante na área de Desenvolvimento Web
-* ⚡ Um amante da tecnologia e de enfrentar desafios
+* ⚡ Um amante da tecnologia, de enfrentar desafios e solucionar problemas.
 * 🌱 Estudando HTML e CSS, em breve aprofundando no JavaScript e React
 * 😄 Gosto de games, filmes/séries e futebol
 
