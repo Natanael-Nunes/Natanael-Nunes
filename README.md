@@ -2,7 +2,7 @@
 
 * 🎨 Sou um inicante na área de Desenvolvimento Web
 * ⚡ Um amante da tecnologia, de enfrentar desafios e solucionar problemas.
-* 🌱 Estudando HTML e CSS, em breve aprofundando no JavaScript e React
+* 🌱 Estudando HTML, CSS e JavaScript, em breve aprofundando no React e TypeScript.
 * 😄 Gosto de games, filmes/séries e futebol
 
  <div>
