@@ -2,7 +2,7 @@
 
 * 🎨 Sou da Engenharia de Dados 
 * ⚡ Um amante da tecnologia, de enfrentar desafios e solucionar problemas.
-* 🌱 Esse perfil aqui é antigo porém nunca foi usado, estou utilizando ele agora para teste de projetos de AI.
+* 🌱 Esse perfil aqui é antigo porém nunca foi usado, vou começar usa-lo agora para projetos de AI (estudos).
 * 😄 Gosto de games, filmes/séries e futebol
  
  <br>
