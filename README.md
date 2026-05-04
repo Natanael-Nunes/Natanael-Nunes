@@ -4,11 +4,6 @@
 * ⚡ Um amante da tecnologia, de enfrentar desafios e solucionar problemas.
 * 🌱 Esse perfil aqui é antigo porém nunca foi usado, estou utilizando ele agora para teste de projetos de AI.
 * 😄 Gosto de games, filmes/séries e futebol
-
- <div>
-   <a href="https://github.com/Natanael-Nunes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Natanael-Nunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natanael-Nunes&layout=compact&langs_count=6&theme=tokyonight"/>
  
  <br>
  
