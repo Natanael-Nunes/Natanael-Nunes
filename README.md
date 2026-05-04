@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao perfil do Natanael Nunes 😁
 
-* 🎨 Sou um inicante na área de Desenvolvimento Web
+* 🎨 Sou da Engenharia de Dados 
 * ⚡ Um amante da tecnologia, de enfrentar desafios e solucionar problemas.
-* 🌱 Estudando HTML, CSS e JavaScript, em breve aprofundando no React e TypeScript.
+* 🌱 Esse perfil aqui é antigo porém nunca foi usado, estou utilizando ele agora para teste de projetos de AI.
 * 😄 Gosto de games, filmes/séries e futebol
 
  <div>
